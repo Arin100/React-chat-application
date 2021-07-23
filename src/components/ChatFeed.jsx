@@ -1,4 +1,4 @@
-//author: @ARINC
+//author:ARINC
 import MessageForm from "./MessageForms";
 import MyMessage from "./MyMessage";
 import TheirMessage from "./TheirMessage";
